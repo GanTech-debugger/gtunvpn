@@ -40,8 +40,8 @@
 	<CENTER><button>VIST OUR WEBSITE!</button></CENTER>
             
             <BR/>
-        <a href="https://play.google.com/store/apps/details?id=com.GTUN.VPN" target="_blank">
-	<CENTER><button>RATE US ON PLAYSTORE!</button></CENTER>
+        <a href="https://T.ME/MRGANPREMIUMBOT" target="_blank">
+	<CENTER><button>CONTACT US!</button></CENTER>
               <BR/>
             <i style="text-align:left;">Design by Gantech.</i>
           
