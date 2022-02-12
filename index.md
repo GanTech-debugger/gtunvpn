@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>GTUN VPN</title>
+        <meta name="description" content="GTUN VPN WEBPAGE.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        <style>
+      marquee{
+      font-size: 30px;
+      font-weight: 970;
+      color: #0000FF
+;
+      font-family: sans-serif;
+      }
+    </style>
+        <marquee>  <center>  <h1>WELCOME TO GTUN VPN OFFICIAL WEBSITE</h1> </center></marquee>
+       
+    <center>    <h3>FAST AND PRIVATE UNLIMITED TUNNEL</h3></center>
+        
+        <!--
+            MADE WITH <3 AND JAVASCRIPT
+        -->
+         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-You can use the [editor on GitHub](https://github.com/GanTech-debugger/gtunvpn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GanTech-debugger/gtunvpn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<BR/>
+    <a href="http://T.ME/GANTECHS" target="_blank">
+  
+ <CENTER> <button type="button" class="btn btn-primary">JOIN US ON TELEGRAM</button></CENTER>
+<BR/>
+    <BR/>
+        <a href="http://GANTECH.COM.NG" target="_blank">
+	<CENTER><button>VIST OUR WEBSITE!</button></CENTER>
+            
+            <BR/>
+        <a href="https://play.google.com/store/apps/details?id=com.GTUN.VPN" target="_blank">
+	<CENTER><button>RATE US ON PLAYSTORE!</button></CENTER>
+              <BR/>
+            <i style="text-align:left;">Design by Gantech.</i>
+          
+          </body>
+</html>
