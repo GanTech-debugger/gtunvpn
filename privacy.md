@@ -1,67 +1,37 @@
 
-     <h1> GTUN VPN PRIVACY POLICY </H1>
-     <BR/>
-     <H3> Privacy Policy </H3>
-     
-GTUN DEVS built the Gtun VPN app as a Free app. This SERVICE is provided by GTUN DEVS at no cost and is intended for use as is.
+   ND USER LICENSE AGREEMENT (EULA)
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This End-User License Agreement (EULA) is a legal agreement between you and GTUN VPN Devhub, the author of GTUN VPN, which includes xml files, java files, kotlin files, graphics files, animation files, data files, technology, development tools, scripts and programs, both in object code and source (the “software”), the deliverables provided pursuant to this EULA, which may include associated media, printed materials, and “online” or electronic documentation. By installing, copying, or otherwise using the Software Product, you agree to be bounded by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the Software Product.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+1. Grant of License
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Gtun VPN unless otherwise defined in this Privacy Policy.
+A) Scope of License. Subject to the terms of this EULA, Licensor hereby grants to Licensee a royalty-free, non-exclusive license to possess and a copy of the software.
 
-Information Collection and Use
+B) Installation and Use. Licensee may install and use an unlimited number of copies of the software solely for Licensee’s personal use.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+2.Description of Rights and Limitations
 
-The app does use third-party services that may collect information used to identify you.
+A) Limitations. Licensee and third parties may not reverse engineer, decompile, or disassemble the software, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding the limitation.
 
-Link to the privacy policy of third-party service providers used by the app
+B) Separation of Components. The software is licensed as a single product. Its components may not be separated for use on more than one device.
 
-Google Play Services
-AdMob
-Log Data
+3. Title to Software. Licensor represents and warrants that it has the legal right to enter into and perform its obligations under this EULA, and that use by the Licensee of the Software, in accordance with the terms of this EULA, will not infringe upon the intellectual property rights of any third parties.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+4. Intellectual Property. All now known or hereafter known tangible and intangible rights, title, interest, copyrights and moral rights in and to the software, including but not limited to all images, photographs, animations, video, audio, music, text, data, computer code, algorithms, and information, are owned by Licensor. The software is protected by all applicable copyright laws and international treaties.
 
-Cookies
+5. Support. Licensor has the obligation to provide support services for the software.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+6.Duration. This EULA is perpetual or until it’s decommissioned by the Licensor.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+END USER LICENSE AGREEMENT
+A) Automatically terminated or suspended if License fails to comply with any of the terms and conditions set forth in this EUAL; or
 
-Service Providers
+B) Terminated or suspended by Licensor, with or without cause.
 
-I may employ third-party companies and individuals due to the following reasons:
+In the event this EULA is terminated, you must cease use of the software and destroy all copies of the software.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+INTELLECTUAL PROPERTY AND PROPRIETORSHIP
 
-Security
+GTUN VPN Devhub shall remain at all times the sole owner of the software as fully downloaded and consumed by you. The software, Copyright and other intellectual property rights are or shall remain properties of v2ray Hybrid Devhub. Therefore, v2ray Hybrid Devhub reserves the right to issue licenses for the use of the software by any third party.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-Children’s Privacy
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
-
-Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2022-02-12
-
-Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at gantechloy@gmail.com.
-
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
-
+Copyright 2022 | GTUN VPN
