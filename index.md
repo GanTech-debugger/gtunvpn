@@ -1,4 +1,4 @@
-!DOCTYPE html>
+
 <html>
     
     <head>
@@ -45,5 +45,4 @@
               <BR/>
             <i style="text-align:left;">Design by Gantech.</i>
           
-          </body>
-</html>
+        
