@@ -32,6 +32,6 @@ In the event this EULA is terminated, you must cease use of the software and des
 
 INTELLECTUAL PROPERTY AND PROPRIETORSHIP
 
-GTUN VPN Devhub shall remain at all times the sole owner of the software as fully downloaded and consumed by you. The software, Copyright and other intellectual property rights are or shall remain properties of v2ray Hybrid Devhub. Therefore, v2ray Hybrid Devhub reserves the right to issue licenses for the use of the software by any third party.
+GTUN VPN Devhub shall remain at all times the sole owner of the software as fully downloaded and consumed by you. The software, Copyright and other intellectual property rights are or shall remain properties of GTUN VPN Devhub. Therefore, GTUN VPN Devhub reserves the right to issue licenses for the use of the software by any third party.
 
 Copyright 2022 | GTUN VPN
