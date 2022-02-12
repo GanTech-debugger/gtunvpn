@@ -36,8 +36,8 @@
  <CENTER> <button type="button" class="btn btn-primary">JOIN US ON TELEGRAM</button></CENTER>
 <BR/>
     <BR/>
-        <a href="http://GANTECH.COM.NG" target="_blank">
-	<CENTER><button>VIST OUR WEBSITE!</button></CENTER>
+        <a href="https://play.google.com/store/apps/details?id=com.gtun.vpn" target="_blank">
+	<CENTER><button>Download Or Update App</button></CENTER>
             
             <BR/>
         <a href="https://T.ME/MRGANPREMIUMBOT" target="_blank">
