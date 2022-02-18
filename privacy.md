@@ -1,5 +1,6 @@
+GTUN VPN PRIVACY POLICY
 
-   ND USER LICENSE AGREEMENT (EULA)
+   END USER LICENSE AGREEMENT (EULA)
 
 This End-User License Agreement (EULA) is a legal agreement between you and GTUN VPN Devhub, the author of GTUN VPN, which includes xml files, java files, kotlin files, graphics files, animation files, data files, technology, development tools, scripts and programs, both in object code and source (the “software”), the deliverables provided pursuant to this EULA, which may include associated media, printed materials, and “online” or electronic documentation. By installing, copying, or otherwise using the Software Product, you agree to be bounded by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the Software Product.
 
