@@ -7,7 +7,7 @@ bidease.com, exchange-20, RESELLER
 meitu.com, 282, RESELLER
 spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 yandex.com, 40427798, RESELLER
-yandex.com, 97539269, RESELLER
+yandex.com, 97539269, RESELLERgh
 admixplay.com, 2012, RESELLER
 bidmachine.io, 113, RESELLER
 bidmachine.io, 114, RESELLER
